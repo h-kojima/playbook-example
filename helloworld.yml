@@ -6,4 +6,4 @@
   tasks:
  
   - name: Hello World!
-    shell: echo "Hi!! Tower is working!!!" > /tmp/tmp01.txt
+    shell: echo "Tower Test." > /tmp/tmp01.txt
